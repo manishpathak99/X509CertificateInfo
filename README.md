@@ -1,6 +1,6 @@
 # X509CertificateInfo
-Android application which will show X509 certificate information on screen. 
-  The information will include 
+An Android application which will show X509 certificate information on screen. 
+  The information includes
   
   
   1- algorithm
