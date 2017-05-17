@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Certificate Info</string>
+    <string name="app_name"> X509 Certificate Info</string>
     <string name="action_settings">Settings</string>
 </resources>
 
