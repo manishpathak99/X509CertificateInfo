@@ -23,5 +23,8 @@ An Android application which shows X509 certificate information on screen.
 
 
 
+## SCREENSHOT
+
+![readme_image](https://cloud.githubusercontent.com/assets/3473968/26171769/c44e9a8e-3b63-11e7-893b-0c0da1ee0326.png)
 
 
