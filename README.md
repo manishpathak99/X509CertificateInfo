@@ -1,5 +1,5 @@
 # Android X509 Certificate Info
-An Android application which will show X509 certificate information on screen. 
+An Android application which shows X509 certificate information on screen. 
   The information includes
   
   
