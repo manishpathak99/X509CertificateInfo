@@ -1,4 +1,4 @@
-package com.mckinsey.cerinfo;
+package com.manish.cerinfo;
 
 import android.content.Context;
 import android.content.pm.PackageInfo;

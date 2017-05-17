@@ -1,4 +1,4 @@
-package com.mckinsey.cerinfo;
+package com.manish.cerinfo;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -98,6 +98,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
+        showCertificateInfo(this, getPackageName());
     }
 
     public void clickedMe(View view) {
@@ -129,5 +130,6 @@ public class MainActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+
 
 }
