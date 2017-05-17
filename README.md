@@ -1,4 +1,4 @@
-# X509CertificateInfo
+# Android X509 Certificate Info
 An Android application which will show X509 certificate information on screen. 
   The information includes
   
